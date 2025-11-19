@@ -22,15 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sajed-gh&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajed-gh&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect with me
 
 <p align="center">
